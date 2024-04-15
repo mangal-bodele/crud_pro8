@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "pid": "101",
+      "name": "mangal",
+      "city": "katraj",
+      "gender": "male",
+      "age": "28",
+      "id": 0
+    },
+    {
+      "pid": "103",
+      "name": "ravi",
+      "city": "ahilyanagar",
+      "gender": "male",
+      "age": "29",
+      "id": 2
+    }
+  ]
+}
